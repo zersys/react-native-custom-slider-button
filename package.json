@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-slider-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides a customizable slider button.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -51,14 +51,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marina-zersys/react-native-custom-slider-button.git"
+    "url": "git+https://github.com/zersys/react-native-custom-slider-button.git"
   },
   "author": "Zersys <marina@zersys.com> (https://github.com/marina-zersys)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marina-zersys/react-native-custom-slider-button/issues"
+    "url": "https://github.com/zersys/react-native-custom-slider-button/issues"
   },
-  "homepage": "https://github.com/marina-zersys/react-native-custom-slider-button#readme",
+  "homepage": "https://github.com/zersys/react-native-custom-slider-button#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
